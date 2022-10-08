@@ -20,7 +20,7 @@ public class StackQueueDataStructure {
 
         System.out.println("Stack = " +stack);
 
-        /*//UC2-Ability to peak and pop from the Stack till it is empty
+        //UC2-Ability to peak and pop from the Stack till it is empty
         //peak stack 1st elemnt
         int peak1 = stack.peek();
         System.out.println("Peek element = " +peak1);
@@ -51,7 +51,7 @@ public class StackQueueDataStructure {
         //sout stack list after pop
         System.out.println("Stack After POP = " +stack);
 
-         */
+
         System.out.println();
         System.out.println("************ Stack *************");
     }
